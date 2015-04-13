@@ -1,8 +1,8 @@
 /**
- * @ÏîÄ¿Ãû³Æ£ºCommonAdapterTest
- * @ÎÄ¼şÃû£ºViewHolder.java
- * @°æ±¾ĞÅÏ¢£º1.0
- * @ÈÕÆÚ£º2015Äê3ÔÂ9ÈÕ
+ * @é¡¹ç›®åç§°ï¼šCommonAdapterTest
+ * @æ–‡ä»¶åï¼šViewHolder.java
+ * @ç‰ˆæœ¬ä¿¡æ¯ï¼š1.0
+ * @æ—¥æœŸï¼š2015å¹´3æœˆ9æ—¥
  */
 package com.xyxg.tools.adapter;
 
@@ -16,14 +16,14 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 /**
- * @ÏîÄ¿Ãû³Æ£ºCommonAdapterTest
- * @ÀàÃû³Æ£ºViewHolder
- * @ÀàÃèÊö£º
- * @´´½¨ÈË£ºYMlion
- * @´´½¨Ê±¼ä£º2015Äê3ÔÂ9ÈÕ ÉÏÎç8:58:56
- * @ĞŞ¸ÄÈË£ºYMlion
- * @ĞŞ¸ÄÊ±¼ä£º2015Äê3ÔÂ9ÈÕ ÉÏÎç8:58:56
- * @ĞŞ¸Ä±¸×¢£º
+ * @é¡¹ç›®åç§°ï¼šCommonAdapterTest
+ * @ç±»åç§°ï¼šViewHolder
+ * @ç±»æè¿°ï¼š
+ * @åˆ›å»ºäººï¼šYMlion
+ * @åˆ›å»ºæ—¶é—´ï¼š2015å¹´3æœˆ9æ—¥ ä¸Šåˆ8:58:56
+ * @ä¿®æ”¹äººï¼šYMlion
+ * @ä¿®æ”¹æ—¶é—´ï¼š2015å¹´3æœˆ9æ—¥ ä¸Šåˆ8:58:56
+ * @ä¿®æ”¹å¤‡æ³¨ï¼š
  * @version 1.0
  */
 public class ViewHolder {
@@ -40,7 +40,7 @@ public class ViewHolder {
     }
     
     /**
-     * ÄÃµ½Ò»¸öViewHolder¶ÔÏó
+     * æ‹¿åˆ°ä¸€ä¸ªViewHolderå¯¹è±¡
      * 
      * @param context
      * @param convertView
@@ -61,7 +61,7 @@ public class ViewHolder {
     }
     
     /**
-     * Í¨¹ı¿Ø¼şµÄId»ñÈ¡¶ÔÓÚµÄ¿Ø¼ş£¬Èç¹ûÃ»ÓĞÔò¼ÓÈëviews
+     * é€šè¿‡æ§ä»¶çš„Idè·å–å¯¹äºçš„æ§ä»¶ï¼Œå¦‚æœæ²¡æœ‰åˆ™åŠ å…¥views
      * 
      * @param viewId
      * @return
@@ -76,7 +76,7 @@ public class ViewHolder {
     }
     
     /**
-     * ÎªTextViewÉèÖÃ×Ö·û´®
+     * ä¸ºTextViewè®¾ç½®å­—ç¬¦ä¸²
      * 
      * @param viewId
      * @param text
@@ -89,7 +89,7 @@ public class ViewHolder {
     }
     
     /**
-     * ÎªImageViewÉèÖÃÍ¼Æ¬
+     * ä¸ºImageViewè®¾ç½®å›¾ç‰‡
      * 
      * @param viewId
      * @param drawableId
@@ -103,7 +103,7 @@ public class ViewHolder {
     }
     
     /**
-     * ÎªImageViewÉèÖÃÍ¼Æ¬
+     * ä¸ºImageViewè®¾ç½®å›¾ç‰‡
      * 
      * @param viewId
      * @param drawableId

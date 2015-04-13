@@ -1,8 +1,8 @@
 /**
- * @ÏîÄ¿Ãû³Æ£ºCommonAdapterTest
- * @ÎÄ¼şÃû£ºCommonAdapter.java
- * @°æ±¾ĞÅÏ¢£º1.0
- * @ÈÕÆÚ£º2015Äê3ÔÂ9ÈÕ
+ * @é¡¹ç›®åç§°ï¼šCommonAdapterTest
+ * @æ–‡ä»¶åï¼šCommonAdapter.java
+ * @ç‰ˆæœ¬ä¿¡æ¯ï¼š1.0
+ * @æ—¥æœŸï¼š2015å¹´3æœˆ9æ—¥
  */
 package com.xyxg.tools.adapter;
 
@@ -15,14 +15,14 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 
 /**
- * @ÏîÄ¿Ãû³Æ£ºCommonAdapterTest
- * @ÀàÃû³Æ£ºCommonAdapter
- * @ÀàÃèÊö£º
- * @´´½¨ÈË£ºYMlion
- * @´´½¨Ê±¼ä£º2015Äê3ÔÂ9ÈÕ ÉÏÎç8:31:59
- * @ĞŞ¸ÄÈË£ºYMlion
- * @ĞŞ¸ÄÊ±¼ä£º2015Äê3ÔÂ9ÈÕ ÉÏÎç8:31:59
- * @ĞŞ¸Ä±¸×¢£º
+ * @é¡¹ç›®åç§°ï¼šCommonAdapterTest
+ * @ç±»åç§°ï¼šCommonAdapter
+ * @ç±»æè¿°ï¼š
+ * @åˆ›å»ºäººï¼šYMlion
+ * @åˆ›å»ºæ—¶é—´ï¼š2015å¹´3æœˆ9æ—¥ ä¸Šåˆ8:31:59
+ * @ä¿®æ”¹äººï¼šYMlion
+ * @ä¿®æ”¹æ—¶é—´ï¼š2015å¹´3æœˆ9æ—¥ ä¸Šåˆ8:31:59
+ * @ä¿®æ”¹å¤‡æ³¨ï¼š
  * @version 1.0
  */
 public abstract class CommonAdapter<T> extends BaseAdapter {
@@ -34,7 +34,7 @@ public abstract class CommonAdapter<T> extends BaseAdapter {
     protected int mLayoutId;
     
     /**
-     * ´´½¨Ò»¸öĞÂµÄÊµÀı CommonAdapter.
+     * åˆ›å»ºä¸€ä¸ªæ–°çš„å®ä¾‹ CommonAdapter.
      * 
      * @param context
      *            Interface to global information about an application
@@ -59,7 +59,7 @@ public abstract class CommonAdapter<T> extends BaseAdapter {
      * mDataList
      * 
      * @return the mDataList
-     * @since CodingExample Ver(±àÂë·¶Àı²é¿´) 1.0
+     * @since CodingExample Ver(ç¼–ç èŒƒä¾‹æŸ¥çœ‹) 1.0
      */
     
     protected List<T> getDataList() {
